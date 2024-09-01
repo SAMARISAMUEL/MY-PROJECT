@@ -1,0 +1,99 @@
+#home {
+  font-size: xx-small;
+  position: relative;
+  right: -200px;
+  color: blue;
+}
+#about {
+  font-size: xx-small;
+  position: relative;
+  top: -19px;
+  right: -240px;
+  color: blue;
+}
+#service {
+  font-size: xx-small;
+  position: relative;
+  top: -39px;
+  right: -280px;
+  color: blue;
+}
+#portfolio {
+  font-size: xx-small;
+  position: relative;
+  top: -59px;
+  right: -320px;
+  color: blue;
+}
+#blog {
+  font-size: xx-small;
+  position: relative;
+  top: -79px;
+  right: -360px;
+  color: blue;
+}
+#contact {
+  font-size: xx-small;
+  position: relative;
+  top: -99px;
+  right: -390px;
+  color: blue;
+}
+.web {
+  font-style: italic;
+  color: rgb(206, 25, 55);
+  position: relative;
+  right: -50px;
+}
+.intro {
+  position: relative;
+  right: -50px;
+  font-size: 30px;
+  font-weight: 300;
+}
+.name {
+  position: relative;
+  right: -180px;
+  font-size: 30px;
+  font-weight: 800;
+  color: rgb(196, 25, 25);
+  top: -62px;
+}
+img {
+  width: 200px;
+  position: relative;
+  top: -300px;
+  right: -500px;
+  border-top-left-radius: 100px;
+  border-top-right-radius: 100px;
+  border-bottom-left-radius: 100px;
+  border-bottom-right-radius: 100px;
+  opacity: 5;
+}
+.sum1 {
+  position: relative;
+  top: -520px;
+  right: -50px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-style: italic;
+}
+.sum2 {
+  position: relative;
+  top: -540px;
+  right: -50px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-style: italic;
+}
+.sum3 {
+  position: relative;
+  top: -560px;
+  right: -50px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-style: italic;
+}
+a {
+  position: relative;
+  top: -580px;
+  right: -50px;
+  font-size: xx-small;
+}
