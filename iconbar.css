@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+}
+nav {
+  color: white;
+  display: flex;
+  float: left;
+  justify-content: space-around;
+  background-color: rgb(25, 26, 25);
+  width: 30%;
+  height: 30px;
+  padding: 12px;
+  position: relative;
+  top: 2px;
+  left: 1px;
+  transition: all 1s ease;
+  overflow: auto;
+}
+.h {
+  width: 10%;
+}
+.h:hover {
+  color: chartreuse;
+}
+.h:active {
+  color: aqua;
+}
+.s {
+  width: 10%;
+}
+.s:hover {
+  color: chartreuse;
+}
+.t {
+  width: 10%;
+}
+.t:hover {
+  color: chartreuse;
+}
+.g {
+  width: 10%;
+}
+.g:hover {
+  color: chartreuse;
+}
+.e {
+  width: 10%;
+}
+.e:hover {
+  color: chartreuse;
+}
