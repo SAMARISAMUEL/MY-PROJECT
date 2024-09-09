@@ -9,36 +9,6 @@ nav {
   justify-content: initial;
   padding: 15px;
 }
-.h {
-  width: 10%;
-}
-.h:hover {
-  color: chartreuse;
-}
-.h:active {
-  color: aqua;
-}
-.s {
-  width: 10%;
-}
-.s:hover {
-  color: chartreuse;
-}
-.t {
-  width: 10%;
-}
-.t:hover {
-  color: chartreuse;
-}
-.g {
-  width: 10%;
-}
-.g:hover {
-  color: chartreuse;
-}
-.e {
-  width: 10%;
-}
-.e:hover {
-  color: chartreuse;
+a :hover {
+  color: antiquewhite;
 }
