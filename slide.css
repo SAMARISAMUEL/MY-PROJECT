@@ -1,0 +1,78 @@
+img {
+  width: 40%;
+  height: 20%;
+}
+a {
+  text-decoration: none;
+  color: rgb(17, 17, 17);
+}
+.page3 {
+  display: none;
+}
+
+.anchor1 {
+  position: relative;
+  left: 270px;
+  bottom: 300px;
+  color: white;
+}
+.anchor2 {
+  position: relative;
+  left: 0px;
+  bottom: 300px;
+  color: white;
+}
+#page_number3 {
+  position: relative;
+  bottom: 430px;
+  color: white;
+}
+#page_cap3 {
+  position: relative;
+  bottom: 100px;
+  left: 100px;
+  color: white;
+}
+.page2 {
+  display: none;
+}
+.anchor4 {
+  position: relative;
+  bottom: 200px;
+  color: black;
+}
+.anchor3 {
+  position: relative;
+  bottom: 200px;
+  left: 270px;
+  color: black;
+}
+#page_number2 {
+  position: relative;
+  bottom: 400px;
+  color: rgb(17, 17, 16);
+}
+#page_cap2 {
+  position: relative;
+  left: 100px;
+  top: -120px;
+}
+#page_number1 {
+  position: relative;
+  bottom: 400px;
+  color: rgb(17, 17, 16);
+}
+#page_cap1 {
+  position: relative;
+  left: 100px;
+  top: -120px;
+}
+.anchor3 :hover {
+  background: black;
+  width: 20px;
+  height: 20px;
+}
+.anchor4:hover {
+  background: black;
+  width: 20px;
+}

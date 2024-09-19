@@ -1,0 +1,84 @@
+* {
+  margin: 0px 0px;
+}
+a {
+  text-decoration: none;
+}
+button {
+  background-color: none;
+  color: azure;
+}
+.main {
+  display: flex;
+  background-color: #f7f3f3;
+  background-size: contain;
+  height: 400px;
+}
+.one {
+  display: block;
+  padding: 120px;
+}
+.one .oneone {
+  color: blue;
+  font-weight: bolder;
+  font-size: 40px;
+}
+.one .onetwo {
+  width: 250px;
+  font-size: large;
+}
+#first {
+  margin-top: 10px;
+  margin-left: 10px;
+  width: 180px;
+}
+#password {
+  margin-top: 10px;
+  margin-left: 10px;
+  width: 180px;
+}
+#btn {
+  margin-top: 20px;
+  margin-left: 10px;
+  width: 190px;
+}
+#a {
+  margin-top: 30px;
+  margin-left: 10px;
+  position: relative;
+  left: 50px;
+  font-size: xx-small;
+}
+.twoone #b {
+  margin-top: 30px;
+  margin-left: 10px;
+  position: relative;
+  left: 20px;
+  background-color: green;
+  color: white;
+  background-color: ;
+}
+.two {
+  display: grid;
+}
+.two .twoone {
+  background-color: white;
+  height: 200px;
+  position: relative;
+  right: 50px;
+  top: 50px;
+  border-radius: 10px;
+  box-shadow: black;
+  margin: 0px;
+}
+.two .twotwo {
+  display: inline;
+  font-size: xx-small;
+  position: relative;
+  right: 30px;
+  bottom: 30px;
+}
+.two .twotwo #rat {
+  position: relative;
+  right: 100%;
+}
