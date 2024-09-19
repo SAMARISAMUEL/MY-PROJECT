@@ -1,4 +1,2 @@
 # name
 
-this is name
-mnjasndnneiojfiojimjkfmkglmksmksmkhjhgghkhsersersdfghhkhkhhgvhuhuhuhohijijtoday
