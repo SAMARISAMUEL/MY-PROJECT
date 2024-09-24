@@ -1,0 +1,118 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap");
+body {
+  margin: 0px;
+  font-family: sans-serif;
+}
+.hero {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  background-color: rgba(128, 128, 128, 0.103);
+  padding: 100px;
+}
+.intro {
+  width: 38%;
+}
+.login {
+  margin-top: 30px;
+}
+.intro span {
+  color: #1877f2;
+  font-size: 40px;
+  font-weight: 700;
+}
+.login .cta {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 1px 3px rgb(114, 116, 114);
+}
+#text {
+  margin-bottom: 10px;
+  width: 90%;
+  height: 25px;
+  padding: 5px;
+  border: 0.5px solid #49484831;
+  border-radius: 010px;
+}
+#text::placeholder {
+  color: #4948486c;
+}
+#password {
+  margin-bottom: 10px;
+  width: 90%;
+  height: 25px;
+  padding: 5px;
+  border: 0.5px solid #49484831;
+  border-radius: 010px;
+}
+#password::placeholder {
+  color: #49484891;
+}
+#btn1 {
+  margin-bottom: 1px;
+  width: 95%;
+  height: 40px;
+  padding: 5px;
+  border-radius: 10px;
+  border: none;
+  background-color: #1877f2;
+  color: #fff;
+  font-weight: bolder;
+}
+#forget a {
+  text-decoration: none;
+  color: #1877f2;
+  font-size: xx-small;
+  margin-left: 30%;
+}
+.dash {
+  position: relative;
+  bottom: 20px;
+  color: #49484891;
+}
+#btn2 {
+  margin-left: 50px;
+  position: relative;
+  bottom: 30px;
+}
+#btn2 button {
+  background-color: green;
+  border: none;
+  padding: 10px;
+  color: #fff;
+  font-weight: bold;
+  border-radius: 10px;
+  margin-left: -20px;
+}
+.twotwo a {
+  text-decoration: none;
+  color: #000;
+  font-weight: 600;
+}
+.twotwo {
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+  font-size: xx-small;
+}
+footer {
+  margin-top: 30px;
+  width: 65%;
+  margin: auto;
+  font-size: xx-small;
+  padding: 50px;
+  color: #494848af;
+}
+footer a {
+  text-decoration: none;
+  color: inherit;
+  white-space: 1rem;
+}
+footer button {
+  font-size: xx-small;
+}
+footer .top {
+  gap: 0.8rem;
+}
